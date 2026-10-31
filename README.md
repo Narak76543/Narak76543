@@ -2,7 +2,7 @@
 
   <!-- Animated Typing SVG Header -->
   <a href="https://github.com/Narak76543">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=DEA584&center=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+Narak+(raqq)+%F0%9F%91%8B;Backend+%26+Systems+Developer;Python+%7C+TypeScript+%7C+Rust;Building+high-performance+software+%26+AI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=DEA584&center=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+Narak+(raqq);Backend+%26+Systems+Developer;Python+%7C+TypeScript+%7C+Rust;Building+high-performance+software" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -14,14 +14,14 @@
     <a href="mailto:Saratnarak85@gmail.com"><img src="https://img.shields.io/badge/Email-Saratnarak85%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://t.me/raqq_dev"><img src="https://img.shields.io/badge/Telegram-Chat-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>
     <img src="https://img.shields.io/badge/Focus-Python_%7C_TypeScript_%7C_Rust-orange?style=flat-square" alt="Focus"/>
-    <img src="https://img.shields.io/badge/Cambodia-%F0%9F%87%B0%F0%9F%87%AD-blue?style=flat-square" alt="Cambodia"/>
+    <img src="https://img.shields.io/badge/Location-Cambodia-blue?style=flat-square" alt="Location"/>
   </p>
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 ```yaml
 name: Sarat Narak (raqq)
@@ -34,20 +34,20 @@ domains:
 interests: [Concurrency, Memory Safety, Clean Architecture, Distributed Systems]
 ```
 
-- 🦀 **Rust:** Writing memory-safe, ultra-fast CLI utilities, core backend services, and system tools.
-- 🐍 **Python:** Designing async REST APIs with FastAPI, data pipelines, automation bots, and AI integration.
-- ⚡ **TypeScript:** Building robust, end-to-end type-safe web applications and reactive user interfaces.
-- 🤖 **Exploring:** Autonomous AI agent architectures, local LLMs, and high-throughput servers.
-- 📫 **How to reach me:** `Saratnarak85@gmail.com`
+- **Rust:** Writing memory-safe, ultra-fast CLI utilities, core backend services, and system tools.
+- **Python:** Designing async REST APIs with FastAPI, data pipelines, automation bots, and AI integration.
+- **TypeScript:** Building robust, end-to-end type-safe web applications and reactive user interfaces.
+- **Exploring:** Autonomous AI agent architectures, local LLMs, and high-throughput servers.
+- **Contact:** `Saratnarak85@gmail.com`
 
 ---
 
-### 🛠️ Core Tech Stack
+### Core Tech Stack
 
 #### Primary Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,python,ts,js,html,css" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=rust,python,ts" alt="Languages" />
   </a>
 </p>
 
@@ -67,27 +67,15 @@ interests: [Concurrency, Memory Safety, Clean Architecture, Distributed Systems]
 
 ---
 
-### 📊 GitHub Activity & Statistics
+### GitHub Activity & Statistics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="165" src="https://github-readme-stats.vercel.app/api?username=Narak76543&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=DEA584&icon_color=DEA584" alt="Narak's GitHub Stats" />
-      </td>
-      <td>
-        <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narak76543&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=DEA584" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
-  <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Narak76543&theme=tokyonight&hide_border=true&background=0D1117&ring=DEA584&fire=DEA584&currStreakLabel=DEA584" alt="GitHub Streak" />
 </div>
 
 ---
 
-### 🌟 Featured Repositories
+### Featured Repositories
 
 | Repository | Stack | Focus |
 | :--- | :--- | :--- |
@@ -98,7 +86,7 @@ interests: [Concurrency, Memory Safety, Clean Architecture, Distributed Systems]
 
 ---
 
-### 📬 Connect With Me
+### Connect With Me
 
 <p align="center">
   <a href="mailto:Saratnarak85@gmail.com">
