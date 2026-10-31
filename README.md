@@ -27,17 +27,18 @@
 name: Sarat Narak (raqq)
 focus_languages: [Python, TypeScript, Rust]
 domains:
-  - High-performance systems & CLI utilities (Rust)
+  - High-performance systems & desktop apps (Rust, Tauri)
   - Scalable backend architectures & microservices (Python / FastAPI)
-  - Full-stack web applications & type-safe tooling (TypeScript / Node.js)
+  - Modern full-stack web applications (Next.js, Nuxt.js)
+  - Cross-platform mobile development (Flutter, React Native)
   - AI integrations & Agentic workflows (Gemini API, Cloudflare Workers AI)
 interests: [Concurrency, Memory Safety, Clean Architecture, Distributed Systems]
 ```
 
-- **Rust:** Writing memory-safe, ultra-fast CLI utilities, core backend services, and system tools.
-- **Python:** Designing async REST APIs with FastAPI, data pipelines, automation bots, and AI integration.
-- **TypeScript:** Building robust, end-to-end type-safe web applications and reactive user interfaces.
-- **Exploring:** Autonomous AI agent architectures, local LLMs, and high-throughput servers.
+- **Rust & Tauri:** Writing memory-safe CLI utilities, high-performance backends, and lightweight desktop applications.
+- **Python & FastAPI:** Designing production-ready async REST APIs, data pipelines, automation bots, and AI agents.
+- **TypeScript & Frameworks:** Building modern web and mobile apps with Next.js, Nuxt.js, Flutter, and React Native.
+- **Exploring:** Autonomous AI agent architectures, local LLMs, and high-throughput distributed systems.
 - **Contact:** `Saratnarak85@gmail.com`
 
 ---
@@ -51,10 +52,10 @@ interests: [Concurrency, Memory Safety, Clean Architecture, Distributed Systems]
   </a>
 </p>
 
-#### Frameworks & Runtime
+#### Frameworks
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,nodejs,vue,tailwind" alt="Frameworks" />
+    <img src="https://skillicons.dev/icons?i=fastapi,react,flutter,nuxtjs,nextjs,tauri" alt="Frameworks" />
   </a>
 </p>
 
